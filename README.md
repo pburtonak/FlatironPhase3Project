@@ -22,6 +22,7 @@ We are working from a dataset of 3333 Telcom customers, with profile infrmation 
 
 Our Classification model is attempting to find the best possible model that predicts along the Recall metric. Because customer retention efforts can be relatively low cost, we do not mind having a certain amount of false positives, instead we want to focus on correctly identofying the highest possible number of customers that will churn. 
 
+
 Our modeling process takes a look at different classifered and uses different features. Starting with a dummy model that predicts base on most common result, and moving forwards with gridsearchs on models such as Decision Trees, Gradient Boosting, K Nearest Neighbors, and Random forest. 
 
 
@@ -37,7 +38,11 @@ Based on our model, the telcom customer retention program should be focused on t
 ## Action Plan
 
 -Identify Key factors in high churn states such as competition and create customer loyalty and retention programs in those states that create a competitive edge vs other competitors in those markets
+
 -Find ways to reduce sticker shock and daily use discounts that can target high churn risk customers that have high daily charges
+
 -Identify systemic issues that cause multiple customer service calls and ways to increase customer sastisfaction
+
 -Identify if cost or other reasons are causing churn with international plan customers and create a more cost effective international plan
+
 -Make voicemail set-tup and use more seamless and and create systems that prevents spam calls 
