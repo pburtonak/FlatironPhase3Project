@@ -4,9 +4,9 @@ Peter Burton
 
 Flatiron Data Science Bootcamp Phase 3
 
-Data from Kaggle: 
+Data from Kaggle: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
 
-Presentation: 
+Presentation: https://docs.google.com/presentation/d/1pHAk258q4okdgybgRiEnrwEDiacMCAOBAelH7GV52PU/edit?usp=sharing
 
 ## Busines Problem
 
@@ -40,4 +40,4 @@ Based on our model, the telcom customer retention program should be focused on t
 -Find ways to reduce sticker shock and daily use discounts that can target high churn risk customers that have high daily charges
 -Identify systemic issues that cause multiple customer service calls and ways to increase customer sastisfaction
 -Identify if cost or other reasons are causing churn with international plan customers and create a more cost effective international plan
--Make voicemail settup and use more seamless and and create system that prevents spam calls 
+-Make voicemail set-tup and use more seamless and and create systems that prevents spam calls 
