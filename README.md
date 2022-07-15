@@ -27,7 +27,7 @@ Our modeling process takes a look at different classifered and uses different fe
 
 ## Results
 
-After itterating through different models, and tuning the perametors of the grid seachers, we improved our model drastically. The Dummy model had a recall score of 0%, initial logistic regression model with just 3 features had a recall score of 67%, and  our final and most accurate model was the Gradient Boost model after tuning paramters and introducing SMOTE oversampling to the dataset. Althought the Gradient score hovered around 90% on the training data, it showed some signs of being overfit and only scored around 70% on the test data. 
+After itterating through different models, and tuning the perametors of the grid seachers, we improved our model drastically. The Dummy model had a recall score of 0%, initial logistic regression model with just 3 features had a recall score of 67%, and  our final and most accurate model was the Gradient Boost model after tuning paramters and introducing SMOTE oversampling to the dataset. Althought the Gradient Boost model recall score score hovered around 90% on the training data, it showed some signs of being overfit and only scored around 70% on the test data. 
 
 
 ## Conclusion
