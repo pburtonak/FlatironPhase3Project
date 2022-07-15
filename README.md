@@ -1,8 +1,11 @@
 # FlatironPhase3Project
 
 Peter Burton
+
 Flatiron Data Science Bootcamp Phase 3
+
 Data from Kaggle: 
+
 Presentation: 
 
 ## Busines Problem
